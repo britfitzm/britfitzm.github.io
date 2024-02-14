@@ -42,7 +42,7 @@
 ul{
 	float: right;
 	display: flex;
-	justify-content: center;
+	justify-content: right;
 	align-items: right;
 }
 
@@ -116,4 +116,54 @@ ul li a:hover{
 .content span{
 	color: #00BFFF;
 	font-size: 60px;
+}
+
+.contentone{
+        width: 1200px;
+        height: auto;
+        margin: auto;
+        color: #000;
+        position: relative;
+}
+
+.contentone .parone{
+        padding-left: 20px;
+        padding-bottom:25px;
+        font-family: Arial;
+        letter-spacing: 1.2px;
+        line-height: 30px;
+}
+
+.contentone h1{
+        font-family: Arial;
+        font-size: 50px;
+        padding-left: 20px;
+        margin-top: 9%;
+        letter-spacing: 2px;
+}
+
+.contenttwo{
+        width: 1200px;
+        height: auto;
+        margin: auto;
+        color: #000;
+        position: relative;
+}
+
+.contentwo h1{
+        font-family: Arial;
+        font-size: 50px;
+        padding-left: 20px;
+        margin-top: 9%;
+        letter-spacing: 2px;
+}
+
+.contenttwo a{
+        text-decoration: none;
+        color: #00BFFF;
+        transition: 0.3s ease;
+}
+
+a:hover{
+        background-color: #B0C4DE;
 }
