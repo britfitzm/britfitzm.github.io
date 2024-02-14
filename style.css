@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background:url(Background.jpg);
+    background:url(bkgrnd.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -21,7 +21,7 @@
     height: 70px;
 }
 .logo{
-    color: #ff7200;
+    color: #191970;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -48,19 +48,19 @@ ul li{
 }
 ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #0000CD;
     font-family: Arial;
     font-weight: bold;
     transition: 0.4s ease-in-out;
 }
 ul li a:hover{
-    color: #ff7200;
+    color: #00BFFF;
 }
 .btn{
     width: 100px;
     height: 40px;
-    background: #ff7200;
-    border: 2px solid #ff7200;
+    background: #0000CD;
+    border: 2px solid #0000CD;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -90,7 +90,7 @@ ul li a:hover{
     line-height: 30px;
 }
 .content h1{
-    font-family: 'Times New Roman';
+    font-family: 'Arial';
     font-size: 50px;
     padding-left: 20px;
     margin-top: 9%;
@@ -99,7 +99,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: #ff7200;
+    background: #00BFFF;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -107,7 +107,6 @@ ul li a:hover{
     border-radius: 10px;
     cursor: pointer;
     transition: .4s ease;
-    
 }
 .content .cn a{
     text-decoration: none;
@@ -115,10 +114,10 @@ ul li a:hover{
     transition: .3s ease;
 }
 .cn:hover{
-    background-color: #fff;
+    background-color: #B0C4DE;
 }
 .content span{
-    color: #ff7200;
+    color: 00BFFF;
     font-size: 65px
 }
 .form{
@@ -134,9 +133,9 @@ ul li a:hover{
 }
 .form h2{
     width: 220px;
-    font-family: sans-serif;
+    font-family:Arial;
     text-align: center;
-    color: #ff7200;
+    color: #00BFFF;
     font-size: 22px;
     background-color: #fff;
     border-radius: 10px;
@@ -218,7 +217,7 @@ ul li a:hover{
         font-size: 2vw
     }
     .logo{
-        margin-left: 240px;
+        margin-left: 140px;
         width: 100%;
         margin-top: 15px;
         font-size: 5vw;
@@ -254,7 +253,7 @@ ul li a:hover{
         margin-left: 20px;
     }
     .logo{
-        margin-left: 180px;
+        margin-left: 80px;
         font-size: 4vw;
     }
     ul{
@@ -272,7 +271,7 @@ ul li a:hover{
 @media screen and (max-width: 450px){
     /*mobile*/
     .logo{
-        margin-left: 140px;
+        margin-left: 40px;
         font-size: 4vw;
     }
     ul{
