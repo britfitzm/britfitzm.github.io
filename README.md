@@ -6,7 +6,7 @@ I am working on this project alone to push myself to do hard things.
 
 Update: due to the incident of my laptop blue-screening, I have scaled down the project because of time loss and deadlines.
 
-The game is written in C language and the webpage is in HTML.
+The game is written in C language and the webpage is in HTML and CSS.
 
 The point of the game is to encourage children to learn. There are no scores and you get multiple chances to get the answer right.
 
