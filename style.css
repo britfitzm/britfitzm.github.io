@@ -117,3 +117,10 @@ ul li a:hover{
 	color: #00BFFF;
 	font-size: 60px;
 }
+
+.content .image{
+	width: 500px;
+	margin-right: 62px;
+	justify-content: right;
+	align-items: right;
+}
