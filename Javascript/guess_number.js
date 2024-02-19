@@ -33,7 +33,7 @@ function validateGuess(guess){
         //Check to see if game is over
         if (numGuesses === 11){
             displayGuesses(guess);
-            displayMessage(`Game Over! Number was ${randomNumber}`);
+            displayMessage(`Game Over! The number was ${randomNumber}`);
             endGame();
         } else {
         //Display previous guessed numbers
@@ -47,12 +47,12 @@ function validateGuess(guess){
 function checkGuess(guess){
     //Display clue if guess is too high or too low
     if (guess === randomNumber){
-        displayMessage(`You guessed correctly!`);
+        displayMessage(`Well Done! The number is ${randomNumber}`);
         endGame();
     } else if (guess < randomNumber) {
-        displayMessage(`Too low! Try again!`);
+        displayMessage(`Too low, try again!`);
     } else if (guess > randomNumber) {
-        displayMessage(`Too High! Try again!`);
+        displayMessage(`Too high, try again!`);
     }
 }
 
@@ -73,7 +73,7 @@ function endGame(){
     //Disable user input button
     userInput.setAttribute('disabled', '');
     //Display Start new Game Button
-          p.classList.add('button');
+          p.classList.add('cn');
           p.innerHTML = `<h1 id="newGame">Start New Game</h1>`
     startOver.appendChild(p);
     playGame = false;
