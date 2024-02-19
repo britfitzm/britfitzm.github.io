@@ -135,7 +135,11 @@ ul li a:hover{
 	border-style: none;
 	margin-top: 30px;
 	margin-left: 50px;
+	transition: 0.3s ease;
 }
+
+.btn:hover {
+	background-color: #B0C4DE;
 
 .subt {
 	background-color: #0000CD;
