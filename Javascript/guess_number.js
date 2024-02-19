@@ -74,7 +74,7 @@ function endGame(){
     userInput.setAttribute('disabled', '');
     //Display Start new Game Button
           p.classList.add('cn');
-          p.innerHTML = `<h1 id="newGame">Start New Game</h1>`
+          p.innerHTML = `<a href="./guess_number.js">Start New Game</a>`
     startOver.appendChild(p);
     playGame = false;
     newGame();
