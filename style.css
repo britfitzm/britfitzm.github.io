@@ -157,7 +157,7 @@ ul li a:hover{
 	border-style: none;
 	margin-top: 25px;
 	font-size: 45px;
-	margin-left: 50px;
+	margin-left: 25px;
 	border: 5px solid #14727d;
 	text-align: center;
 }
@@ -177,7 +177,7 @@ ul li a:hover{
 	box-sizing: border-box;
 	text-align: center;
 	width: 600px;
-	height: 500px;
+	height: 600px;
 	background-color: #191970;
 	color: #fff;
 	font-size: 25px;
