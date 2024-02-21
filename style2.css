@@ -79,7 +79,7 @@ html {
 	padding: 7px;
 }
 
-.btn {
+.btn a{
 	background-color: #00BFFF;
 	color: #000;
 	width: 250px;
@@ -92,7 +92,7 @@ html {
 	transition: 0.4s ease;
 }
 
-.btn:hover {
+.btn a:hover{
 	color: #B0C4DE;
 }
 
