@@ -1,14 +1,18 @@
-This is the repository for my ALX Holberton School Software Engineering portfolio project.
+GUESSMYGAMES
 
-I am using GitHub Pages for my project.
+
+This is the repository for my ALX Holberton School Software Engineering portfolio project.
 
 I am working on this project alone to push myself to do hard things.
 
-Update: due to the incident of my laptop blue-screening, I have scaled down the project because of time loss and deadlines.
+Update: due to the incident of my laptop blue-screening, I have scaled down the project because of time loss and deadlines. Due to the deadlines I have not managed to create the games in Javascript.
 
-The game is written in C language and the webpage is in HTML and CSS.
+I am using GitHub Pages for my project webpage where the games can be played.
 
-The point of the game is to encourage children to learn. There are no scores and you get multiple chances to get the answer right.
+The game was originally written in C language, but after much research and trials, I have decided to change to Javascript. The webpage is made with HTML and styled with CSS.
+The game is fully functional in C-code.
+
+The point of the game is to encourage children to learn and practice maths. There are no scores and you get multiple chances to get the answer right.
 
 The Game:
 
@@ -30,3 +34,8 @@ Each age group has different guides to accomodate how far they are in their lear
 the amount of tries vary between ages
 the amount of items vary between ages
 the numbers vary between ages
+
+
+
+Authors:
+Brittany Fitzmaurice - LinkedIn[https://www.linkedin.com/in/brittany-fitzmaurice-a58a6324b] - email[brittanyfitzm99@gmail.com]
