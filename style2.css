@@ -86,10 +86,10 @@ html {
 	width: 250px;
 	height: 50px;
 	border-radius: 25px;
-	font-size: 20px;
+	font-size: 30px;
 	border-style: none;
 	padding-top: 30px;
-	margin-top: 30px;
+	margin-top: 50px;
 	/* margin-left: 50px; */
 	transition: 0.4s ease;
 }
@@ -102,9 +102,9 @@ html {
 	background-color: #00BFFF;
 	color: #000;
 	width: 350px;
-	height: 150px;
+	height: 50px;
 	border-radius: 25px;
-	font-size: 50px;
+	font-size: 30px;
 	border-style: none;
 	margin-top: 50px;
 	/* margin-left: 75px; */
@@ -158,5 +158,5 @@ h1 {
 
 p {
 	font-size: 20px;
-	text-align: left;
+	text-align: center;
 }
