@@ -78,7 +78,7 @@ html {
 .guesses {
 	color: white;
 	padding: 7px;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 .btn a{
@@ -144,7 +144,7 @@ html {
 	box-sizing: border-box;
 	text-align: center;
 	width: 750px;
-	height: 550px;
+	height: 500px;
 	background-color: #12aab4;
 	color: #fff;
 	font-size: 25px;
@@ -161,6 +161,5 @@ h1 {
 p {
 	font-size: 20px;
 	text-align: center;
-	padding-bottom: 20px;
 	padding-top: 20px;
 }
