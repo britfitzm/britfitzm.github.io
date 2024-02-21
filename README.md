@@ -1,5 +1,7 @@
 GUESSMYGAMES
 
+https://britfitzm.github.io/
+
 
 This is the repository for my ALX Holberton School Software Engineering portfolio project.
 
@@ -37,5 +39,8 @@ the numbers vary between ages
 
 
 
-Authors:
+Author:
 Brittany Fitzmaurice - LinkedIn[https://www.linkedin.com/in/brittany-fitzmaurice-a58a6324b] - email[brittanyfitzm99@gmail.com]
+
+Blog for this project:
+https://www.linkedin.com/pulse/my-portfolio-project-review-brittany-fitzmaurice-eqn4f
