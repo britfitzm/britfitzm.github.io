@@ -101,12 +101,12 @@ html {
 #subt {
 	background-color: #00BFFF;
 	color: #000;
-	width: 350px;
-	height: 50px;
+	width: 250px;
+	height: 40px;
 	border-radius: 25px;
-	font-size: 30px;
+	font-size: 20px;
 	border-style: none;
-	margin-top: 40px;
+	margin-top: 30px;
 	/* margin-left: 75px; */
 	transition: 0.4s ease;
 }
@@ -117,8 +117,8 @@ html {
 
 #guessField {
 	color: #000;
-	width: 550px;
-	height: 100px;
+	width: 450px;
+	height: 50px;
 	font-size: 30px;
 	border-style: none;
 	margin-top: 25px;
@@ -137,7 +137,7 @@ html {
 
 .guesses {
 	background-color: #12aab4;
-	margin-top: 20px;
+	margin-top: 15px;
 }
 
 #wrapper {
@@ -148,6 +148,7 @@ html {
 	background-color: #12aab4;
 	color: #fff;
 	font-size: 25px;
+	margin-left: 250px;
 }
 
 h1 {
@@ -161,5 +162,5 @@ h1 {
 p {
 	font-size: 20px;
 	text-align: center;
-	padding-top: 20px;
+	padding-top: 15px;
 }
