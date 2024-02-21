@@ -93,7 +93,7 @@ html {
 	transition: 0.4s ease;
 }
 
-.btn a:hover{
+.btn:hover{
 	color: #B0C4DE;
 }
 
@@ -153,9 +153,11 @@ h1 {
 	color: #fff;
 	text-align: center;
 	width: 750px;
+	padding-bottom: 20px;
 }
 
 p {
 	font-size: 20px;
 	text-align: center;
+	padding-bottom: 20px;
 }
