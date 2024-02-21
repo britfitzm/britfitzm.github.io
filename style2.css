@@ -94,7 +94,7 @@ html {
 	transition: 0.4s ease;
 }
 
-.btn:hover{
+.btn a:hover{
 	color: #B0C4DE;
 }
 
@@ -136,7 +136,7 @@ html {
 }
 
 .guesses {
-	background-color: #12aab4;
+	background-color: #0000CD;
 	margin-top: 15px;
 }
 
@@ -152,15 +152,17 @@ html {
 }
 
 h1 {
-	background-color: #7b3056;
+	background-color: #191970;
 	color: #fff;
 	text-align: center;
 	width: 750px;
-	padding-bottom: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 p {
 	font-size: 20px;
 	text-align: center;
-	padding-top: 15px;
+	padding-top: 7px;
+	padding-bottom: 7px;
 }
